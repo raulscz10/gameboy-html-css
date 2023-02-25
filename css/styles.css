@@ -62,13 +62,14 @@
 .gameboyContainer{
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .gameboy {
     font-style: italic;
     font-size: 2em;
     color: grey;
+    margin-right: 20px;
 }
 
 .gb-c {
@@ -76,8 +77,6 @@
     font-size: 2em;
     font-weight: bold;
     color: #830f2e;
-    display: flex;
-    justify-content: flex-start;
 }
 
 .gb-o {
@@ -106,4 +105,16 @@
     font-size: 2em;
     font-weight: bold;
     color:#08507e;
+}
+
+/*Estilos Logo Nintendo*/
+.nintendo {
+    font-family: "ComicSansMS";
+    height: 25px;
+    width: 130px;
+    font-size: 1.5em;
+    text-align: center;
+    color: #2e2745;
+    border: #2e2745 solid 3px;
+    border-radius: 250px;
 }
