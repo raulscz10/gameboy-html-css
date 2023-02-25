@@ -108,4 +108,66 @@
     color: #2e2745;
     border: #2e2745 solid 3px;
     border-radius: 250px;
+    padding: 0px 3px 0px 3px;
+}
+
+/*Estilos Cruceta Y Botones A y B*/
+.row{
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.column-2{
+    width: 50%;
+    padding: 2%;
+    background-color: yellow;
+}
+
+#col-2{
+    background-color: red;
+}
+
+.A{
+    height: 40px;
+    width: 40px;
+    left: 165px;
+    background: #313131;
+    border-radius: 50px;
+    border: black solid 1px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.A p{
+    font-size: 1.5em;
+    font-family: "ComicSansMS", sans-serif ;
+    color: #1f1f1f;
+    top: 5px;
+    left: 12px;
+    text-shadow: -1px -1px 0px rgba(61, 61, 61, 0.7);
+    position: relative;
+}
+
+.B{
+    height: 40px;
+    width: 40px;
+    top: -5px;
+    left: 110px;
+    background: #313131;
+    border-radius: 50%;
+    border: black solid 1px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.B p{
+    font-size: 1.5em;
+    font-family: "ComicSansMS", sans-serif ;
+    color: #1f1f1f;
+    top: 5px;
+    left: 12px;
+    text-shadow: -1px -1px 0px rgba(61, 61, 61, 0.7);
+    position: relative;
 }
