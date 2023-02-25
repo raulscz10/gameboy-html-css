@@ -2,3 +2,22 @@
     padding: 0;
     margin: 0;
 }
+
+:root{
+    --height-gameboy: 750px;
+    --width-gameboy: 475px;
+    --color-gameboy: #9b85e6;
+}
+
+/* Estilos Consola*/
+.consola {
+    height: var(--height-gameboy);
+    width: var(--width-gameboy);
+    background: var(--color-gameboy);
+    margin: 20px ;
+    border:black solid 3px;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
