@@ -122,11 +122,86 @@
 .column-2{
     width: 50%;
     padding: 2%;
-    background-color: yellow;
 }
 
-#col-2{
-    background-color: red;
+.cruceta{
+    width: 90px;
+    height: 90px;
+    left: 60px;
+    background-color: #2e2745cd;
+    border: 2px solid #2e2745;
+    border-radius: 70px;
+    margin: -5px;
+    position: relative;
+}
+
+.pad-center{
+    height: 25px;
+    width: 25px;
+    top: 35px;
+    left: 35px;
+    background-color: #313131;
+    position: relative;
+}
+
+.pad-up{
+    height: 25px;
+    width: 22px;
+    top: -15px;
+    left: 34px;
+    color: #1f1f1f;
+    background-color: #313131;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    position: relative;
+}
+
+.pad-der{
+    height: 21px;
+    width: 20px;
+    top: -17px;
+    left: 60px;
+    font-size: 1.5em;
+    color: #1f1f1f;
+    background-color: #313131;
+    position: relative;
+    display: flex;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.pad-down{
+    height: 20px;
+    width: 22px;
+    top: -18px;
+    left: 35px;
+    color: #1f1f1f;
+    background-color: #313131;
+    position: relative;
+    display: flex;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+}
+
+.pad-izq{
+    height: 20px;
+    width: 20px;
+    top: -64px;
+    left: 13px;
+    color: #1f1f1f;
+    background-color: #313131;
+    position: relative;
+    display: flex;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.pad-size{
+    font-size: 10px;
 }
 
 .A{
