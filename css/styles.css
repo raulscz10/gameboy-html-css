@@ -9,6 +9,14 @@
     --color-gameboy: #9b85e6;
 }
 
+.flex-cv{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+
 /* Estilos Consola*/
 .consola {
     height: var(--height-gameboy);
@@ -20,4 +28,82 @@
     border-top-left-radius: 5%;
     border-bottom-left-radius: 20%;
     border-bottom-right-radius: 20%;
+}
+
+/*Estilos Pantalla*/
+.marco-pantalla {
+    margin: 25px 30px 15px 25px;
+    height:390px;
+    width: 420px;
+    background: black;
+    border:black solid 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.pantalla {
+    font-family: "ComicSansMS";
+    height: 320px;
+    width: 330px;
+    background: grey;
+    border-radius: 10px;
+    border:black solid 1px;
+    margin: 30px auto auto auto;
+}
+
+
+.mb-image{
+    width: 100%;
+    height: 100%;
+}
+
+.gameboyContainer{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.gameboy {
+    font-style: italic;
+    font-size: 2em;
+    color: grey;
+}
+
+.gb-c {
+    font-family: "ComicSansMS";
+    font-size: 2em;
+    font-weight: bold;
+    color: #830f2e;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.gb-o {
+    font-family: "ComicSansMS";
+    font-size: 2em;
+    font-weight: bold;
+    color: #3d3d83;
+}
+
+.gb-l {
+    font-family: "ComicSansMS";
+    font-size: 2em;
+    font-weight: bold;
+    color:#599c21;
+}
+
+.gb-O {
+    font-family: "ComicSansMS";
+    font-size: 2em;
+    font-weight: bold;
+    color: #9b752f;
+}
+
+.gb-r {
+    font-family: "ComicSansMS";
+    font-size: 2em;
+    font-weight: bold;
+    color:#08507e;
 }
