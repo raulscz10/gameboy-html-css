@@ -26,7 +26,7 @@ Este proyecto a sido creando utilizando los siguientes lenguajes;
 
 A continuación os dejo una preview de como ha quedado el proyecto.
 
-<img src="./img/preview-gameboy.JPG" alt="Preview Del Proyecto">
+<img src="./img/preview-gameboy.JPG" alt="Preview Del Proyecto" width="300" height="500">
 
 
 ## Contacto 📧 <a name = "Contacto"></a>
