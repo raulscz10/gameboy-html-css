@@ -1,4 +1,4 @@
-## 📝 Table of Contents
+## 📝 Tabla de Contenidos
 
 - [Instruducción](#Instruducción)
 - [Pre-requisitos](#Pre-requisitos)
