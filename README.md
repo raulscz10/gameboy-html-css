@@ -30,7 +30,13 @@ Para visualizar la demo <a href="https://raulscz10.github.io/gameboy-html-css/" 
 
 A continuación os dejo una preview de como ha quedado el proyecto.
 
-<img src="./img/preview-gameboy.JPG" alt="Preview Del Proyecto" width="300" height="500">
+<img src="./img/preview-gameboy-off.JPG" alt="Preview De La GB sin gif" width="300" height="500">
+
+Gameboy con el gif desactivado.
+
+<img src="./img/preview-gameboy.JPG" alt="Preview De La GB con gif" width="300" height="500">
+
+Gameboy con el gif activado.
 
 
 ## Contacto 📧 <a name = "Contacto"></a>
