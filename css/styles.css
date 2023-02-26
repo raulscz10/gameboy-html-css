@@ -4,7 +4,7 @@
 }
 
 :root{
-    --height-gameboy: 750px;
+    --height-gameboy: 775px;
     --width-gameboy: 475px;
     --color-gameboy: #9b85e6;
 }
@@ -271,13 +271,12 @@
     font-size: 1.1em;
     margin-top: 5px;
     font-family: "ComicSansMS", sans-serif ;
-    background: #313131;
 }
 
-/* button{
+button{
     border:none;
-    color:#1f1f1f;
-} */
+    background-color:#313131;
+}
 
 .start{
     height: 30px;

@@ -14,7 +14,7 @@
         <div class="marco-pantalla">
             <!--Definimos la pantalla, la imagen y la palabra Gameboy Color-->
             <div class="pantalla">
-                <img src="img/mario-bros.gif" alt="Mario Bros Gif" class="mb-image">
+                <img id="imgchange" src="./img/fondo-negrp.jpg" alt="Mario Bros Gif" class="mb-image">
                 <!--Contenedor para la palabra Gameboy Color-->
                 <div class="gameboyContainer">
                     <p class="gameboy">GAMEBOY</p>
@@ -65,10 +65,10 @@
         <!--Definimos los botones Select/Start-->
         <div class="selectStartContainer">
             <div class="select">
-                <p class="p-select">SELECT</p>
+                <button id="btn-select" class="p-select">SELECT</button>
             </div>
             <div class="start">
-                <p class="p-start">START</p>
+                <button id="btn-start" class="p-start">START</button>
             </div>
         </div>
         <!--Definimos la parte del altavoz-->
@@ -98,5 +98,7 @@
             </div>
         </div>
     </div>
+    <!--Enlazamos el JavaScript-->
+    <script src="./js/main.js"></script>
 </body>
 </html>
