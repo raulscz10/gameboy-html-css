@@ -271,8 +271,13 @@
     font-size: 1.1em;
     margin-top: 5px;
     font-family: "ComicSansMS", sans-serif ;
-    color:#1f1f1f;
+    background: #313131;
 }
+
+/* button{
+    border:none;
+    color:#1f1f1f;
+} */
 
 .start{
     height: 30px;

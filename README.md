@@ -6,7 +6,7 @@
 - [Capturas de Pantalla](#CapturasdePantalla)
 - [Contacto](#Contacto)
 
-## Instruducción 🧐 <a name = "Instruducción"></a>
+## Intruducción 🧐 <a name = "Instruducción"></a>
 
 Mi primer proyecto realizado en el Bootcamp Full Stack Developer en el que tenia que realizar una videoconsola utilizando HTML y CSS. En mi caso he elegido una Gameboy Color, espero que el resultado os guste 😁.
 
