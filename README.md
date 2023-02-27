@@ -1,6 +1,6 @@
 ## 📝 Tabla de Contenidos
 
-- [Instruducción](#Instruducción)
+- [Introducción](#Introducción)
 - [Pre-requisitos](#Pre-requisitos)
 - [Construido con](#Construido)
 - [Uso](#uso)
@@ -8,7 +8,7 @@
 - [Capturas de Pantalla](#CapturasdePantalla)
 - [Contacto](#Contacto)
 
-## Intruducción 🧐 <a name = "Instruducción"></a>
+## Introducción 🧐 <a name = "Introducción"></a>
 
 Mi primer proyecto realizado en el Bootcamp Full Stack Developer en el que tenía que realizar una videoconsola utilizando HTML, CSS y Javascript. En mi caso he elegido una Gameboy Color, espero que el resultado os guste 😁.
 
