@@ -15,7 +15,7 @@ Mi primer proyecto realizado en el Bootcamp Full Stack Developer en el que tení
 ## Pre-requisitos 📋 <a name = "Pre-requisitos"></a>
 
     · Editor de Texto -> Visual Studio Code
-    · Descargarse la extensión de Live Server para Visual Studio Code o tener XAMPP
+    · Descargarse la extensión de Live Server para Visual Studio Code
 
 ## Construido con 🛠️ <a name = "Construido"></a>
 
